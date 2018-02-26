@@ -1,0 +1,108 @@
+CC,Short Name,Full Name
+1,ModW,Mod Wheel
+2,Brth,Breath
+3,BPM,BPM
+4,FootC,Foot Controller
+5,Glide,Glide Mode
+6,DatEnt,Data Entry MSB
+7,Vol,Volume
+8,Osc1Sb,Osc 1 Sub Octave
+9,DisAmt,Distortion Amount
+10,Expr,Expression
+11,Sl1Pos,Slider 1 Position
+12,Sl2Pos,Slider 2 Position
+13,Sl1Pre,Slider 1 Pressure
+14,Sl2Pre,Slider 2 Pressure
+15,Dly1Tm,Delay 1 Time
+16,Dly1Sy,Delay 1 Sync
+17,Dly1Am,Delay 1 Amount
+18,Dly1FB,Delay 1 Feedback
+19,Dly2Tm,Delay 2 Time
+20,Dly2Sy,Delay 2 Sync
+21,Dly2Am,Delay 2 Amount
+22,Dly2FB,Delay 2 Feedback
+23,Dly3Tm,Delay 3 Time
+24,Dly3Sy,Delay 3 Sync
+25,Dly3Am,Delay 3 Amount
+26,Dly3FB,Delay 3 Feedback
+27,BnkSel,Bank Select
+28,Dly4Tm,Delay 4 Time
+29,Dly4Sy,Delay 4 Sync
+30,Dly4Am,Delay 4 Amount
+31,Dly4FB,Delay 4 Feedback
+32,DataLSB,Data Entry LSB
+33,PgmVol,Program Volume
+34,VCAEnv,VCA Envelope Amt
+35,VelVCA,Velocity to VCA Env Amt
+36,VCADly,VCA Env Delay
+37,VCAAtk,VCA Env Attack
+38,VCADec,VCA Env Decay
+39,VCASus,VCA Env Sustain
+40,VCARel,VCA Env Release
+41,F1EAmt,F1 Envelope Amt
+42,Vel2F1,Velocity to F1 Env Amt
+43,F1EDly,F1 Env Delay
+44,F1EAtk,F1 Env Attack
+45,F1EDec,F1 Env Decay
+46,F1ESus,F1 Env Sustain
+47,F1ERel,F1 Env Release
+48,Osc1Gl,Osc 1 Glide Amt
+49,Osc2Gl,Osc 2 Glide Amt
+50,Osc3Gl,Osc 3 Glide Amt
+51,Osc4Gl,Osc 4 Glide Amt
+52,Arp,Arpeggiator On/Off
+53,ArpMode,Arpeggiator Mode
+54,ArpRng,Arpeggiaor Range
+55,ArpLch,Arp Auto Latch On/Off
+56,ClkDiv,Seq/Arp Clock Divide
+57,ArpRep,Arp Repeats
+58,Pedal2,Pedal 2
+59,Glide,Glide On/Off
+60,Osc1Ph,Osc 1 Pitch
+61,Osc1FT,Osc 1 Fine Tune
+62,Osc1Lv,Osc 1 Level
+63,Osc1Sh,Osc 1 Shape
+64,Osc1SM,Osc 1 Shape Mod
+65,Osc1FM,Osc 1 FM
+66,Osc1AM,Osc 1 AM
+67,Brght,Brightness
+68,Osc2Ph,Osc 2 Pitch
+69,Osc2FT,Osc 2 Fine Tune
+70,Osc2Lv,Osc 2 Level
+71,Osc2Sh,Osc 2 Shape
+72,Osc2SM,Osc 2 Shape Mod
+73,Osc2FM,Osc 2 FM
+74,Osc2AM,Osc 2 AM
+75,Osc3Ph,Osc 3 Pitch
+76,Osc3FT,Osc 3 Fine Tune
+77,Osc3Lv,Osc 3 Level
+78,Osc3Sh,Osc 3 Shape
+79,Osc3SM,Osc 3 Shape Mod
+80,Osc3FM,Osc 3 FM
+81,Osc3AM,Osc 3 AM
+82,Osc4Pc,Osc 4 Pitch
+83,Osc4FT,Osc 4 Fine Tune
+84,Osc4Lv,Osc 4 Level
+85,Osc4Sh,Osc 4 Shape
+86,Osc4SM,Osc 4 Shape Mod
+87,Osc4FM,Osc 4 FM
+88,Osc4AM,Osc 4 AM
+89,DatInc,Data Inc
+90,DatDec,Data Dec
+91,NRPNLSB,NRPN LSB
+92,NRPNMSB,NRPN MSB
+93,RPNLSB,RPN LSB
+94,RPNMSB,RPN MSB
+95,F1Freq,F1 Frequency
+96,F1Res,F1 Resonance
+97,F1Key,F1 Key Amount
+98,F2Freq,F2 Frequency
+99,F2Res,F2 Resonance
+100,F2Key,F2 Key Amount
+101,Girth,Girth
+102,Air,Air
+103,Hack,Hack
+104,Decim8,Decimate
+105,Drive,Drive
+106,FdbkAm,Feedback Amount
+107,FdbkTu,Feedback Tuning
