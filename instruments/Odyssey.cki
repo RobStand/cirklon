@@ -1,0 +1,9 @@
+{
+    "instrument_data": {
+        "Odyssey": {
+            "midi_port": "1",
+            "midi_chan": 1,
+            "track_values": {}
+        }
+    }
+}

@@ -1,0 +1,250 @@
+{
+    "instrument_data": {
+        "BigSky": {
+            "midi_port": "5",
+            "midi_chan": 1,
+            "track_values": {
+                "slot_1": {
+                    "MIDI_CC": 100,
+                    "label": "ExpPdl"
+                },
+                "slot_2": {
+                    "MIDI_CC": 102,
+                    "label": "Bypass"
+                },
+                "slot_4": {
+                    "MIDI_CC": 19,
+                    "label": "TypeEn"
+                },
+                "slot_5": {
+                    "MIDI_CC": 20,
+                    "label": "ValuEn"
+                },
+                "slot_6": {
+                    "MIDI_CC": 17,
+                    "label": "Decay"
+                },
+                "slot_7": {
+                    "MIDI_CC": 18,
+                    "label": "PreDly"
+                },
+                "slot_8": {
+                    "MIDI_CC": 15,
+                    "label": "Mix"
+                },
+                "slot_9": {
+                    "MIDI_CC": 3,
+                    "label": "Tone"
+                },
+                "slot_10": {
+                    "MIDI_CC": 9,
+                    "label": "Param1"
+                },
+                "slot_11": {
+                    "MIDI_CC": 16,
+                    "label": "Param2"
+                },
+                "slot_12": {
+                    "MIDI_CC": 14,
+                    "label": "Mod"
+                },
+                "slot_14": {
+                    "MIDI_CC": 23,
+                    "label": "Boost"
+                },
+                "slot_15": {
+                    "MIDI_CC": 22,
+                    "label": "Persis"
+                },
+                "slot_16": {
+                    "MIDI_CC": 70,
+                    "label": "Freeze"
+                },
+                "slot_18": {
+                    "MIDI_CC": 61,
+                    "label": "RM LE"
+                },
+                "slot_19": {
+                    "MIDI_CC": 59,
+                    "label": "RMsize"
+                },
+                "slot_20": {
+                    "MIDI_CC": 58,
+                    "label": "RMdiff"
+                },
+                "slot_22": {
+                    "MIDI_CC": 39,
+                    "label": "HA LE"
+                },
+                "slot_23": {
+                    "MIDI_CC": 40,
+                    "label": "HAsize"
+                },
+                "slot_24": {
+                    "MIDI_CC": 42,
+                    "label": "HA Mid"
+                },
+                "slot_26": {
+                    "MIDI_CC": 69,
+                    "label": "PL LE"
+                },
+                "slot_27": {
+                    "MIDI_CC": 68,
+                    "label": "PLsize"
+                },
+                "slot_29": {
+                    "MIDI_CC": 64,
+                    "label": "SP LE"
+                },
+                "slot_30": {
+                    "MIDI_CC": 63,
+                    "label": "SPdwel"
+                },
+                "slot_31": {
+                    "MIDI_CC": 62,
+                    "label": "SPnumb"
+                },
+                "slot_33": {
+                    "MIDI_CC": 65,
+                    "label": "SW LE"
+                },
+                "slot_34": {
+                    "MIDI_CC": 66,
+                    "label": "SWrise"
+                },
+                "slot_35": {
+                    "MIDI_CC": 67,
+                    "label": "SWmode"
+                },
+                "slot_37": {
+                    "MIDI_CC": 31,
+                    "label": "BL LE"
+                },
+                "slot_38": {
+                    "MIDI_CC": 32,
+                    "label": "BLleng"
+                },
+                "slot_39": {
+                    "MIDI_CC": 30,
+                    "label": "BLfdbk"
+                },
+                "slot_41": {
+                    "MIDI_CC": 38,
+                    "label": "CL LE"
+                },
+                "slot_42": {
+                    "MIDI_CC": 37,
+                    "label": "CLdiff"
+                },
+                "slot_44": {
+                    "MIDI_CC": 33,
+                    "label": "CHvowe"
+                },
+                "slot_45": {
+                    "MIDI_CC": 34,
+                    "label": "CHreso"
+                },
+                "slot_47": {
+                    "MIDI_CC": 25,
+                    "label": "SHsft1"
+                },
+                "slot_48": {
+                    "MIDI_CC": 26,
+                    "label": "SHsft2"
+                },
+                "slot_49": {
+                    "MIDI_CC": 27,
+                    "label": "SHamnt"
+                },
+                "slot_50": {
+                    "MIDI_CC": 28,
+                    "label": "SHmode"
+                },
+                "slot_51": {
+                    "MIDI_CC": 24,
+                    "label": "SH LE"
+                },
+                "slot_53": {
+                    "MIDI_CC": 55,
+                    "label": "MA LE"
+                },
+                "slot_54": {
+                    "MIDI_CC": 56,
+                    "label": "MAdiff"
+                },
+                "slot_55": {
+                    "MIDI_CC": 57,
+                    "label": "MAhead"
+                },
+                "slot_56": {
+                    "MIDI_CC": 54,
+                    "label": "MAspac"
+                },
+                "slot_58": {
+                    "MIDI_CC": 44,
+                    "label": "NL LE"
+                },
+                "slot_59": {
+                    "MIDI_CC": 46,
+                    "label": "NLshap"
+                },
+                "slot_60": {
+                    "MIDI_CC": 45,
+                    "label": "NLdiff"
+                },
+                "slot_61": {
+                    "MIDI_CC": 47,
+                    "label": "NLLDec"
+                },
+                "slot_62": {
+                    "MIDI_CC": 48,
+                    "label": "NLLLev"
+                },
+                "slot_63": {
+                    "MIDI_CC": 43,
+                    "label": "NLMSpd"
+                },
+                "slot_65": {
+                    "MIDI_CC": 52,
+                    "label": "RE LE"
+                },
+                "slot_66": {
+                    "MIDI_CC": 50,
+                    "label": "RELocY"
+                },
+                "slot_67": {
+                    "MIDI_CC": 49,
+                    "label": "RELocX"
+                },
+                "slot_68": {
+                    "MIDI_CC": 51,
+                    "label": "REshap"
+                },
+                "slot_70": {
+                    "MIDI_CC": 0,
+                    "label": "PaBank"
+                },
+                "slot_73": {
+                    "MIDI_CC": 97,
+                    "label": "HoldSW"
+                },
+                "slot_74": {
+                    "MIDI_CC": 93,
+                    "label": "RemTAP"
+                },
+                "slot_78": {
+                    "MIDI_CC": 80,
+                    "label": "A FtSw"
+                },
+                "slot_79": {
+                    "MIDI_CC": 82,
+                    "label": "B FtSw"
+                },
+                "slot_80": {
+                    "MIDI_CC": 81,
+                    "label": "C FtSw"
+                }
+            }
+        }
+    }
+}
