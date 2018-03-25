@@ -1,0 +1,9 @@
+{
+    "instrument_data": {
+        "261e": {
+            "midi_port": "1",
+            "midi_chan": 2,
+            "track_values": {}
+        }
+    }
+}
